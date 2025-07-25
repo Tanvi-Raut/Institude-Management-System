@@ -42,4 +42,22 @@ A Java-based application to manage key operations of an educational institute �
 ### 🧰 Utility
 - Reset / Backup / Exit System
 
+- ## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home_page.png)
+
+### 👩‍🏫 Teacher Details
+![Teacher Details](screenshots/teacher_details.png)
+
+### 📝 Apply Student Leave
+![Apply Leave](screenshots/apply_leave.png)
+
+### 💰 Fee Structure
+![Fee Structure](screenshots/fee_structure.png)
+
+### ✅ Fee Payment
+![Fee Payment](screenshots/fee_payment.png)
+
+
 
