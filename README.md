@@ -44,20 +44,37 @@ A Java-based application to manage key operations of an educational institute �
 
 - ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🏠 Home Page
 ![Home Page](pic1.png)
 
-### 👩‍🏫 Teacher Details
-![Teacher Details](pic2.png)
+### 👨‍🎓 Student Details
+![Student Details](pic2.png)
 
-### 📝 Apply Student Leave
-![Apply Leave](pic3.png)
+### 📂 View Student Details
+![View Details](pic3.png)
+
+### 📝 Apply Teacher Leave
+![Apply Teacher Leave](pic4.png)
+
+### 📋 Leave Details
+![Leave Details](pic5.png)
+
+### 🧾 Examination Result
+![Examination Result](pic6.png)
+
+### ✏️ Update Student Details
+![Update Student Details](pic7.png)
 
 ### 💰 Fee Structure
-![Fee Structure](pic4.png)
+![Fee Structure](pic8.png)
 
-### ✅ Fee Payment
-![Fee Payment](pic5.png)
+### ℹ️ About
+![About](pic9.png)
+
+
+
 
 
 
