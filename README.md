@@ -11,7 +11,7 @@ A Java-based application to manage key operations of an educational institute â€
 | Java       | Core Programming Language   |
 | Swing / AWT (Optional) | GUI Interface (if used) |
 | File Handling / MySQL (if used) | Data Storage         |
-| IDE        | IntelliJ / Eclipse / NetBeans |
+| IDE        | Visual Studio / Eclipse / NetBeans |
 
 ---
 
