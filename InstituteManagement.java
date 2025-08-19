@@ -63,7 +63,7 @@ class ExaminationDetails extends JFrame implements ActionListener,ItemListener
          txt_name.setEditable(false);
          this.add(txt_name);
 
-         lbl=new JLabel("Roll Number");
+         lbl=new JLabel("Roll No.");
          lbl.setForeground(Color.WHITE);
          lbl.setBounds(400,100,200,30);
          lbl.setFont(new Font("serif",Font.BOLD,20));
